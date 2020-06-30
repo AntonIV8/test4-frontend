@@ -1,0 +1,30 @@
+﻿{
+  "name": "IISTest4A4",
+  "modelName": "i-i-s-test4-a4",
+  "className": "A4",
+  "nameSpace": "IIS.Test4",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "A4E",
+      "modelName": "i-i-s-test4-a4",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "A4L",
+      "modelName": "i-i-s-test4-a4",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
